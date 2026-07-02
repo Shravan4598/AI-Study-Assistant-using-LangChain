@@ -1,1 +1,1 @@
-# AI-Study-Assistant-using-LangChain
+# AI Study Assistant using LangChain
