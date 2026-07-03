@@ -440,28 +440,27 @@ AI Response
 
 ---
 
-## Generated Notes
+## 📝 Generated Notes
 
-> *(Add Screenshot Here)*
-
----
-
-## Generated Questions
-
-> *(Add Screenshot Here)*
+![Generated Notes](https://raw.githubusercontent.com/Shravan4598/AI-Study-Assistant-using-LangChain/main/assets/Generated_notes.png)
 
 ---
 
-## Generated Answers
+## ❓ Generated Questions
 
-> *(Add Screenshot Here)*
+![Generated Questions](https://raw.githubusercontent.com/Shravan4598/AI-Study-Assistant-using-LangChain/main/assets/Generated_Questions.png)
 
 ---
 
-## Sentiment Analysis
+## ✅ Generated Answers
 
-> *(Add Screenshot Here)*
+![Generated Answers](https://raw.githubusercontent.com/Shravan4598/AI-Study-Assistant-using-LangChain/main/assets/Generated_Answer.png)
 
+---
+
+## 😊 Sentiment Analysis
+
+![Sentiment Analysis](https://raw.githubusercontent.com/Shravan4598/AI-Study-Assistant-using-LangChain/main/assets/Sentiment_Analysis.png)
 ---
 
 # 📈 Future Improvements
