@@ -536,7 +536,7 @@ This project is licensed under the **MIT License**.
 
 GitHub: https://github.com/Shravan4598
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: https://www.linkedin.com/in/shravan-kumar-pandey-309786309/
 
 Email: shravankumarpandey825412@gmail.com
 
