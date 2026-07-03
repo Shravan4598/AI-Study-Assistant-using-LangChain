@@ -326,9 +326,9 @@ making the project modular.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AI_Study_Assistant.git
+git clone https://github.com/Shravan4598/AI-Study-Assistant-using-LangChain.git
 
-cd AI_Study_Assistant
+cd AI-Study=Assistant-using-Langchain
 ```
 
 ---
