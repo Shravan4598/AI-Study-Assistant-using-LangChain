@@ -426,9 +426,9 @@ AI Response
 
 # 📸 Screenshots
 
-## Home Page
+## 🖥️ Home Page
 
-> *(Add Screenshot Here)*
+![Home Page](https://raw.githubusercontent.com/Shravan4598/AI-Study-Assistant-using-LangChain/main/assets/Home_page.png)
 
 ---
 
