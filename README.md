@@ -218,14 +218,17 @@ AI_Study_Assistant/
 ├── .env
 │
 ├── assets/
-│      └── logo.png
+│      └── screenshots
 │
 ├── logs/
 │      └── app.log
 │
 ├── config/
 │      ├── __init__.py
-│      └── config.py
+|      └── config.py
+├── Dockerfile
+|
+├──.dockerignore      
 │
 ├── src/
 │
