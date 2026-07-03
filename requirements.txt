@@ -36,5 +36,3 @@ grandalf==0.8
 # ============================
 setuptools>=70.0.0
 
-# Install local package
--e .
