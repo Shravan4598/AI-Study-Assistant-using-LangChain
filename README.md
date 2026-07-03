@@ -1,3 +1,11 @@
+---
+title: AI Study Assistant
+emoji: 📚
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
 # 📚 AI Study Assistant using LangChain
 
 > An end-to-end **Production-Level AI Study Assistant** built using **LangChain**, **Google Gemini**, and **Streamlit**. The application generates comprehensive study notes, creates interview/exam questions and answers using **RunnableParallel**, analyzes user feedback through **Sentiment Analysis**, and responds intelligently using **RunnableBranch (Conditional Chains)**.
